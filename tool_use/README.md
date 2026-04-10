@@ -1,11 +1,11 @@
-# Tool use
+# 도구 사용 (Tool Use)
 
-Welcome to Anthropic's comprehensive tool use tutorial. Across six lessons, you will learn everything you need to know to implement tool use successfully in your workflows with Claude. We recommend that you start from the beginning with the [tool use overview](./01_tool_use_overview.ipynb), as each lesson builds on key concepts taught in previous ones.
+Anthropic의 종합 도구 사용(Tool Use) 튜토리얼에 오신 것을 환영합니다. 6개의 레슨을 통해 Claude를 사용한 워크플로우에서 도구 사용을 성공적으로 구현하는 데 필요한 모든 것을 배우게 됩니다. 각 레슨은 이전 레슨에서 가르치는 핵심 개념을 바탕으로 하므로, [도구 사용 개요 (Tool use overview)](./01_tool_use_overview.ipynb)부터 시작하는 것을 권장합니다.
 
-## Table of contents
-* [Tool use overview](./01_tool_use_overview.ipynb)
-* [Your first simple tool](./02_your_first_simple_tool.ipynb)
-* [Forcing JSON with tool use](./03_structured_outputs.ipynb)
-* [The complete tool use workflow](./04_complete_workflow.ipynb)
-* [Tool choice](./05_tool_choice.ipynb)
-* [Building a chatbot with multiple tools](./06_chatbot_with_multiple_tools.ipynb)
+## 목차
+* [도구 사용 개요 (Tool use overview)](./01_tool_use_overview.ipynb)
+* [첫 번째 간단한 도구 만들기](./02_your_first_simple_tool.ipynb)
+* [도구 사용을 통한 JSON 강제 (Structured Outputs)](./03_structured_outputs.ipynb)
+* [완전한 도구 사용 워크플로우](./04_complete_workflow.ipynb)
+* [도구 선택 (Tool choice)](./05_tool_choice.ipynb)
+* [여러 도구를 갖춘 챗봇 빌드하기](./06_chatbot_with_multiple_tools.ipynb)
